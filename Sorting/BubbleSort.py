@@ -8,3 +8,6 @@ def bubbleSort(arr):
 
 arr = [2, 6, 1, 7, 3]
 bubbleSort(arr)
+
+# Time Complexity:: O(n^2)
+# Space Complexity:: O(1)
